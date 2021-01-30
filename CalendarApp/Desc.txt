@@ -1,0 +1,1 @@
+The calendar app organizes a structured list from a text file. The output is a two year calendar shown in the terminal.
