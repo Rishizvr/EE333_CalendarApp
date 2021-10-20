@@ -1,18 +1,6 @@
-/*
- * File: Activity.java
- * Author: Rishi Zaveri sage0@uab.edu
- * Assignment:  sage0-p5 - EE333 Fall 2019
- * Vers: 1.0.0 11/03/2019 rz - initial coding
- *
- * Credits:  (if any for sections of code)
- */
 
-package edu.uab.sage0.sage0.p5;
+ * Author: Rishi Zaveri
 
-/**
- *
- * @author Rishi Zaveri sage0@uab.edu
- */
 public class Activity {
 
     // Variables
