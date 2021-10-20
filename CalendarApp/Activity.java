@@ -1,6 +1,7 @@
 
  * Author: Rishi Zaveri
 
+package edu.uab.sage0.sage0.p5;
 public class Activity {
 
     // Variables
